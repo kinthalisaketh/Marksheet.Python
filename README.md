@@ -1,4 +1,4 @@
-1.Open the JUPYTER NOTE BOOK 
+1.Open the JUPYTER NOTE BOOK\n
 2.Install the tkinters by using "pip install tkinter"
 3.un the code 
 4.u will get a popup and enter the details u will get the final result
